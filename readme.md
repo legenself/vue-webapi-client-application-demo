@@ -39,3 +39,14 @@
 - 在windows 中需要安装 edge beta版才可正常运行
 - 界面与后端交互如果不太熟悉webview那一套，又有需要实时展示，推荐可以用signalr
 
+
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/legenself/vue-webapi-client-application-demo.svg?style=flat-square
+[contributors-url]: https://github.com/legenself/vue-webapi-client-application-demo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/legenself/vue-webapi-client-application-demo.svg?style=flat-square
+[forks-url]: https://github.com/legenself/vue-webapi-client-application-demo/network/members
+[stars-shield]: https://img.shields.io/github/stars/legenself/vue-webapi-client-application-demo.svg?style=flat-square
+[stars-url]: https://github.com/legenself/vue-webapi-client-application-demo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/legenself/vue-webapi-client-application-demo.svg?style=flat-square
+[issues-url]: https://github.com/legenself/vue-webapi-client-application-demo/issues
