@@ -20,7 +20,7 @@
 
 
 - vue 是流行的前端框架
-- webwindows 是一个能够快速在使用的webview工具
+- webwindows 是一个能够快速使用的webview库
 - asp.net core webapi 是流行的后端框架
 - signalr 是一个常用的websocket工具
 
@@ -39,7 +39,9 @@
 - 在windows 中需要安装 edge beta版才可正常运行
 - 界面与后端交互如果不太熟悉webview那一套，又有需要实时展示，推荐可以用signalr
 
-
+## 待增加功能
+- 使用signalR 进行UI与后端的交互
+- 网页启动时间过长，导致的白屏问题
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/legenself/vue-webapi-client-application-demo.svg?style=flat-square
